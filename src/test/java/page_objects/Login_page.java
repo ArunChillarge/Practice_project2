@@ -17,21 +17,29 @@ public class Login_page {
 			PageFactory.initElements(driver,this);
 		}
 
-		@FindBy(xpath = "//input[@type='text']")
+		
+		@FindBy(xpath = "//a[@href='/login']")
+		WebElement btnlogin1;
+		@CacheLookup
+	
+		
+		@FindBy(xpath = "//div[@class='login-form']//input[@name='email']")
 		WebElement username;
 		@CacheLookup
 		
-		@FindBy(xpath = "//input[@type='password']")
+		@FindBy(xpath = "//div[@class='login-form']//input[@name='password']")
 		WebElement password;
 		
-		@FindBy(xpath = "//*[@name=\"login\"]")
+		@FindBy(xpath = "//div[@class='login-form']//button[@type='submit']")
 		WebElement btnlogin;
 		
-		/*@FindBy(xpath = "/html/body/div[3]/div/ul/li[3]/a")
+		@FindBy(linkText = "/logout")
 		WebElement signout;
-		*/
 		
 		
+		public void clickonloin() {
+			btnlogin1.click();
+		}
 		public void setusername(String uname) {
 			username.sendKeys(uname);
 		}
@@ -44,10 +52,9 @@ public class Login_page {
 			btnlogin.click();
 		}
 		
-		/*public void Clicksignout() {
+		public void Clicksignout() {
 			signout.click();
 		}
-		*/
 		
 }
 		

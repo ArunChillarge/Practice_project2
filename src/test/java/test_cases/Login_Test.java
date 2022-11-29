@@ -2,6 +2,7 @@ package test_cases;
 
 import org.testng.annotations.Test;
 
+
 import page_objects.Login_page;
 
 public class Login_Test extends Base_class {
@@ -13,6 +14,9 @@ public class Login_Test extends Base_class {
 		
 				
 		Login_page lp =new Login_page(driver);
+		lp.clickonloin();
+		Thread.sleep(3000);
+		Logger.info("clickonloin");
 		Thread.sleep(6000);
 		lp.setusername(username);
 		Logger.info("entered username");

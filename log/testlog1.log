@@ -356,3 +356,63 @@
 2022-11-11 12:03:47,199 [main] INFO mystore - clicked on signin
 2022-11-11 12:03:50,214 [main] INFO mystore - Login passed
 2022-11-11 12:03:53,675 [main] INFO mystore - browser closed
+2022-11-24 14:39:41,561 [main] INFO mystore - Url is opened
+2022-11-24 14:39:49,045 [main] INFO mystore - browser closed
+2022-11-24 14:45:06,841 [main] INFO mystore - Url is opened
+2022-11-24 14:45:07,677 [main] INFO mystore - browser closed
+2022-11-24 14:50:58,642 [main] INFO mystore - Url is opened
+2022-11-24 14:51:07,642 [main] INFO mystore - clickonloin
+2022-11-24 14:51:13,865 [main] INFO mystore - entered username
+2022-11-24 14:51:17,076 [main] INFO mystore - entered password
+2022-11-24 14:51:35,277 [main] INFO mystore - clicked on submit
+2022-11-24 14:51:38,933 [main] INFO mystore - browser closed
+2022-11-24 18:45:26,466 [main] INFO mystore - Url is opened
+2022-11-24 18:45:29,819 [main] INFO mystore - category icon present
+2022-11-24 18:45:29,889 [main] INFO mystore - brands icon present
+2022-11-24 18:45:30,426 [main] INFO mystore - browser closed
+2022-11-29 11:24:52,304 [main] INFO mystore - Url is opened
+2022-11-29 11:24:55,670 [main] INFO mystore - category icon present
+2022-11-29 11:24:55,758 [main] INFO mystore - brands icon present
+2022-11-29 11:24:56,582 [main] INFO mystore - browser closed
+2022-11-29 11:32:27,275 [main] INFO mystore - Url is opened
+2022-11-29 11:32:30,553 [main] INFO mystore - category icon present
+2022-11-29 11:32:30,617 [main] INFO mystore - brands icon present
+2022-11-29 11:32:31,037 [main] INFO mystore - browser closed
+2022-11-29 11:34:05,576 [main] INFO mystore - Url is opened
+2022-11-29 11:34:09,127 [main] INFO mystore - browser closed
+2022-11-29 11:35:10,771 [main] INFO mystore - Url is opened
+2022-11-29 11:35:14,000 [main] INFO mystore - category icon present
+2022-11-29 11:35:14,084 [main] INFO mystore - brands icon present
+2022-11-29 11:35:14,503 [main] INFO mystore - browser closed
+2022-11-29 11:42:19,572 [main] INFO mystore - Url is opened
+2022-11-29 11:42:22,752 [main] INFO mystore - category icon present
+2022-11-29 11:42:22,813 [main] INFO mystore - brands icon present
+2022-11-29 11:42:23,227 [main] INFO mystore - browser closed
+2022-11-29 11:45:48,659 [main] INFO mystore - Url is opened
+2022-11-29 11:45:51,834 [main] INFO mystore - category icon present
+2022-11-29 11:45:51,879 [main] INFO mystore - brands icon present
+2022-11-29 11:45:52,262 [main] INFO mystore - browser closed
+2022-11-29 11:48:08,428 [main] INFO mystore - Url is opened
+2022-11-29 11:48:11,678 [main] INFO mystore - category icon present
+2022-11-29 11:48:11,735 [main] INFO mystore - brands icon present
+2022-11-29 11:48:12,192 [main] INFO mystore - browser closed
+2022-11-29 11:50:19,266 [main] INFO mystore - Url is opened
+2022-11-29 11:50:22,436 [main] INFO mystore - category icon present
+2022-11-29 11:50:22,485 [main] INFO mystore - brands icon present
+2022-11-29 11:50:22,878 [main] INFO mystore - browser closed
+2022-11-29 11:53:23,571 [main] INFO mystore - Url is opened
+2022-11-29 11:53:26,751 [main] INFO mystore - category icon present
+2022-11-29 11:53:26,817 [main] INFO mystore - brands icon present
+2022-11-29 11:53:27,209 [main] INFO mystore - browser closed
+2022-11-29 11:55:42,867 [main] INFO mystore - Url is opened
+2022-11-29 11:55:46,018 [main] INFO mystore - category icon present
+2022-11-29 11:55:46,075 [main] INFO mystore - brands icon present
+2022-11-29 11:55:47,372 [main] INFO mystore - browser closed
+2022-11-29 11:56:50,563 [main] INFO mystore - Url is opened
+2022-11-29 11:56:53,835 [main] INFO mystore - category icon present
+2022-11-29 11:56:53,893 [main] INFO mystore - brands icon present
+2022-11-29 11:56:54,380 [main] INFO mystore - browser closed
+2022-11-29 12:00:26,920 [main] INFO mystore - Url is opened
+2022-11-29 12:00:30,120 [main] INFO mystore - category icon present
+2022-11-29 12:00:30,195 [main] INFO mystore - brands icon present
+2022-11-29 12:00:31,526 [main] INFO mystore - browser closed
